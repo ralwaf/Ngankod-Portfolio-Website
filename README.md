@@ -35,7 +35,7 @@ The portfolio website includes the following sections:
 
 To use the portfolio website, follow these steps:
 
-1. Clone the repository: [git clone](https://ionic.io/ionicons)
+1. Clone the repository: [git clone](https://github.com/ralwaf/Ngankod-Portfolio-Website.git)
 2. Open the index.html file in a web browser.
 
 
